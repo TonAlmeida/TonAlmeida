@@ -14,4 +14,5 @@ my name is Elton Almeida, I love programming💻 minimalism and sustainability.
  
  Reach me out 👇🏼
 
-<form action="https://www.instagram.com/ton.almeida01/" method="get" target="_blank"><button type="submit">Instagram</button></form>
+[![Instagram](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.instagram.com/ton.almeida01/)](https://www.instagram.com/ton.almeida01/) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elton-santos-de-almeida-8953b5205/)](https://www.linkedin.com/in/elton-santos-de-almeida-8953b5205/)[![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/your-work))](https://codepen.io/your-work)
+
