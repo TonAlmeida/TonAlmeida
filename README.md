@@ -1,6 +1,6 @@
 # Hey👋, Welcome to my profile
 
-my name is Elton Almeida, I love programming, minimalism and sustainability.
+My name is Elton Almeida, I love programming, minimalism and sustainability.
 
 - :fire: I’m currently learning JavaScript:rocket:
 -  :seedling:I'm looking to collaborate on turn the world more sustainability
