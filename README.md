@@ -14,4 +14,4 @@ my name is Elton Almeida, I love programming💻 minimalism and sustainability.
  
  Reach me out 👇🏼
 
-{% include button.html url="https://www.instagram.com/ton.almeida01/" %}
+<form action="https://www.instagram.com/ton.almeida01/" method="get" target="_blank"><button type="submit">Instagram</button></form>
