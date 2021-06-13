@@ -7,8 +7,4 @@ my name is Elton Almeida, I'm from Brasil I love programming, minimalism and sus
 - 💬 Ask me about JavaScript, CSS and HTML
 - 📫 How to reach me: elton.almeida@outlook.com 
 - ⚡ Fun fact: I haven't seen the light of the day for years:stuck_out_tongue_closed_eyes:
-<div style="display: inline-flex">
-  <img style="heigth: 20px; width: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img style="heigth: 20px; width: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
-  <img style="heigth: 20px; width: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-</div>
+ ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =25x25)![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg =25x25)![enter image description here](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =25x25)
