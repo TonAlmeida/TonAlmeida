@@ -11,9 +11,9 @@ My name is Elton Almeida, I love programming, minimalism and sustainability.
 
 <div>
     <a href="https://github.com/SysSimone">
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api?username=TonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="180em"
+        <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonAlmeida&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
