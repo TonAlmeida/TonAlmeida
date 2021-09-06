@@ -9,6 +9,25 @@ My name is Elton Almeida, I love programming, minimalism and sustainability.
 - ⚡ Fun fact: I haven't seen the light of the day for years:stuck_out_tongue_closed_eyes:
 - chalenges, solving problems and learning ♥️
 
+<div>
+    <a href="https://github.com/SysSimone">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+    <div style="display: inline_block"><br>
+    <img align="center" alt="TonAlmeida-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TonAlmeida-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="TonAlmeida-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+    
+    ##
+    <div>
+     <a href="https://www.instagram.com/ton.almeida01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
+      <a href="https://www.linkedin.com/in/tonalmeida01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto:eltonsantos.almeida@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      
+      
+    </div>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="25" height="25" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="25" height="25" />
  
