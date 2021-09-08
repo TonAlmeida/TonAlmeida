@@ -10,11 +10,11 @@ My name is Elton Almeida, I love programming, minimalism and sustainability.
 - chalenges, solving problems and learning ♥️
 
 <div>
-    <a href="https://github.com/SysSimone">
+    <a href="https://github.com/TonAlmeida">
         <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=TonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=TonAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
         <img height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonAlmeida&layout=compact&langs_count=7&theme=dracula" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonAlmeida&layout=compact&langs_count=7&theme=dark" />
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="TonAlmeida-Js" height="30" width="40"
