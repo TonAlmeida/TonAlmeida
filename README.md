@@ -4,10 +4,10 @@ My name is Elton Almeida, I love programming, minimalism and sustainability.
 
 - :fire: I’m currently learning JavaScript:rocket:
 -  :seedling:I'm looking to collaborate on make the world more sustainable
-- 💬 Ask me about JavaScript, CSS and HTML
+- 💬 Ask me about Typescript, JavaScript, CSS and HTML
 - 📫 How to reach me: elton.almeida@outlook.com 
 - ⚡ Fun fact: I haven't seen the light of the day for years:stuck_out_tongue_closed_eyes:
-- chalenges, solving problems and learning ♥️
+    chalenges, solving problems and learning ♥️
 <hr>
 <div>
     <a href="https://github.com/TonAlmeida">
