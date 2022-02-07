@@ -7,7 +7,7 @@ My name is Elton Almeida, I love programming, minimalism and sustainability.
 - 💬 Ask me about Typescript, JavaScript, CSS and HTML
 - 📫 How to reach me: elton.almeida@outlook.com 
 - ⚡ Fun fact: I haven't seen the light of the day for years:stuck_out_tongue_closed_eyes:
-   ♥️chalenges, solving problems and learning ♥️
+  <div>♥️chalenges, solving problems and learning<div/> ♥️
 <hr>
 <div>
     <a href="https://github.com/TonAlmeida">
