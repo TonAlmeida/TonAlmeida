@@ -1,4 +1,4 @@
-# Hey👋, Welcome to my profile
+# Hello World👋, Welcome to my profile
 
 My name is Elton Almeida, I love programming, minimalism and sustainability.
 
